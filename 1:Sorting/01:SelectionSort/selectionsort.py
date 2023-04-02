@@ -1,11 +1,11 @@
-```
+"""
     DSA sorting algorithms: Selction sort
     Author: Danish Xavier
     email: danishxr@gmail.com
     Twitter: @SillyTechy
 
 
-```
+"""
 
 # Seclection sort algorithm
 
